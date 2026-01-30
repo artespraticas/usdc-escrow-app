@@ -39,9 +39,9 @@ npm run dev
 ### Environment Variables
 
 ```
-VITE_CONTRACT_ADDRESS=0x...  # Your deployed contract
-VITE_USDC_ADDRESS=0x...      # USDC token on Arc Testnet
-VITE_CHAIN_ID=...            # Arc Testnet chain ID
+VITE_CONTRACT_ADDRESS=0x8485B17B61367B1d921e8752E08eC3bd3CF3FA9B  # Your deployed contract
+VITE_USDC_ADDRESS=0x3600000000000000000000000000000000000000     # USDC token on Arc Testnet
+VITE_CHAIN_ID=5042002
 ```
 
 ## Smart Contract
