@@ -47,7 +47,7 @@ VITE_CHAIN_ID=5042002
 ## Smart Contract
 
 The escrow contract is deployed on Arc Testnet at:
-`0x...` (Add your address after deployment)
+`0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518`
 
 ### Contract Functions
 
